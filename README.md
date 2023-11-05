@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/pramitha-jayasooriya-8b710b1b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramitha jayasooriya" height="30" width="40" /></a>
 <a href="https://fb.com/pramitha mihiranga jaysooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pramitha mihiranga jaysooriya" height="30" width="40" /></a>
 <a href="https://instagram.com/pramitha_mihiranga_jayasooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pramitha_mihiranga_jayasooriya" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@pramitha3990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@pramitha3990" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/Pramitha3990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@pramitha3990" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
