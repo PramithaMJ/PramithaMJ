@@ -19,7 +19,7 @@
 <a href="https://stackoverflow.com/users/21953303/pramitha-jayasooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vxcx" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/pramithajayasooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vxcvxc" height="30" width="40" /></a>
 <a href="https://leetcode.com/PramithaMJ/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pramithamj" height="30" width="40" /></a>
-<a href="https://open.kattis.com/users/pramitha-jayasooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kattis.svg" alt="pramithamj" height="30" width="40" /></a>
+<a href="https://open.kattis.com/users/pramitha-jayasooriya" target="blank"><img align="center" src="https://github.com/PramithaMJ/PramithaMJ/assets/123730262/b62d6b34-2880-4a46-904f-5b21611f2d36" alt="pramithamj" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC5z_yT-vIaoo4tjf1Tw_WJw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc5z_yt-viaoo4tjf1tw_wjw" height="30" width="40" /></a
 </p>
 <!--
