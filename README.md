@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pramitha Jayasooriya</h1>
-<h3 align="center">A passionate FullStack developer from Sri lanka</h3>
+<h3 align="center">BSc (Hons) Computer Engineering(UG) - Faculty of Engineering, University of Ruhuna, Sri Lanka</h3>
+<h4> A Passionate Developer from Sri Lanka </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramithamj&label=Profile%20views&color=0e75b6&style=flat" alt="pramithamj" /> </p>
 
