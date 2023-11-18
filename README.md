@@ -41,4 +41,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pramithamj&" alt="pramithamj" /></p>
 -->
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=PramithaMJ&theme=nightowl&hide_border=true" alt="pramithamj" /></p>
