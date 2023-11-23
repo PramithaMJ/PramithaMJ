@@ -76,4 +76,4 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=PramithaMJ&theme=default"/>
 -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PramithaMJ&theme=gruvbox" alt="PramithaMJ" /></p>
+
