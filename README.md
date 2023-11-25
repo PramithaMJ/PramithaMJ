@@ -1,4 +1,8 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
+
 <h1 align="center">Hi 👋, I'm Pramitha Jayasooriya</h1>
 <h3 align="center">BSc (Hons) Computer Engineering(UG) - Faculty of Engineering, University of Ruhuna, Sri Lanka</h3>
 <h4 align="center" style="font-family: Georgia, serif; font-size: 34px; letter-spacing: -0.2px; word-spacing: 0.4px; color: #F3B5FF; font-weight: 700; text-decoration: none solid rgb(68, 68, 68); font-style: normal; font-variant: normal; text-transform: none;">A Passionate Developer from Sri Lanka 🇱🇰</h4>
@@ -36,11 +40,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PramithaMJ&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="pramithamj" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PramithaMJ&theme=nightowl&hide_border=true&include_all_commits=false&count_private=truen" alt="pramithamj" /></p>
-<!--
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pramithamj&show_icons=true&locale=en&layout=compact" alt="pramithamj" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pramithamj&show_icons=true&locale=en" alt="pramithamj" /></p>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PramithaMJ&theme=nightowl&hide_border=true)<br/> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pramithamj&" alt="pramithamj" /></p>
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PramithaMJ&theme=algolia&hide_border=false" alt="pramithamj" /></p>
+
 <!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PramithaMJ&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -75,5 +76,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=PramithaMJ&theme=default"/>
 -->
+
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
