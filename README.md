@@ -43,26 +43,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PramithaMJ&theme=nightowl&hide_border=true&include_all_commits=false&count_private=truen" alt="pramithamj" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=PramithaMJ&theme=algolia&hide_border=false" alt="pramithamj" /></p>
 <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PramithaMJ&theme=2077" height="180em" /></p>
-<!--
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PramithaMJ&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PramithaMJ&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PramithaMJ&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
--->
 
-<!--
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PramithaMJ&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=PramithaMJ&icon=0&color=0)](https://visitcount.itsvg.in)
-
--->
 
 
 <!--
-
-
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PramithaMJ&theme=gruvbox" alt="PramithaMJ" /></p>
 
