@@ -16,7 +16,7 @@
 <p align="left"> <a href="https://twitter.com/pramithamj" target="blank"><img src="https://img.shields.io/twitter/follow/pramithamj?logo=twitter&style=for-the-badge" alt="pramithamj" /></a> </p>
 
 - 🔭 I’m currently working on [LifePill Project](https://github.com/Life-Pill)
-- 📝 I regularly write articles on [https://medium.com/@lpramithamj](https://medium.com/@lpramithamj)
+- 📝 I regularly write articles on [Medium](https://medium.com/@lpramithamj)
 - 💬 Ask me about **Java, SpringBoot , Microservices**
 - 📫 How to reach me **lpramithamj@gmail.com**
 
