@@ -1,9 +1,4 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<!-- <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
--->
- 
 <h1 align="center">Hi 👋, I'm Pramitha Jayasooriya</h1>
 <h3 align="center">BSc (Hons) Computer Engineering(UG) - Faculty of Engineering, University of Ruhuna, Sri Lanka</h3>
 <h4 align="center" style="font-family: Georgia, serif; font-size: 34px; letter-spacing: -0.2px; word-spacing: 0.4px; color: #F3B5FF; font-weight: 700; text-decoration: none solid rgb(68, 68, 68); font-style: normal; font-variant: normal; text-transform: none;">A Passionate Full Stack Developer from Sri Lanka 🇱🇰</h4>
