@@ -5,11 +5,6 @@
 
 ![New Cover](https://github.com/PramithaMJ/PramithaMJ/assets/123730262/3eda7447-1131-463e-b7e0-cf116c6e8382)
 
-   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lpramithamj/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lpramithamj/0 " alt="Recent Article 0"> 
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2" alt="Recent Article 2"> 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramithamj&label=Profile%20views&color=0e75b6&style=flat" alt="pramithamj" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pramithamj" alt="pramithamj" /></a> </p>
