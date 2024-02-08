@@ -15,6 +15,7 @@
 - 🌱 I’m currently learning **microservices, Kubernetes and Kafka**
 - 📝 I regularly write articles on [Medium](https://medium.com/@lpramithamj)
 - 💬 Ask me about **Java, SpringBoot , Microservices**
+- 🥇 Check my current standing among Kattis users in Sri Lanka [Kattis](https://open.kattis.com/countries/LKA)
 - 📫 How to reach me **lpramithamj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
