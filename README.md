@@ -11,6 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/pramithamj" target="blank"><img src="https://img.shields.io/twitter/follow/pramithamj?logo=twitter&style=for-the-badge" alt="pramithamj" /></a> </p>
 
+- 💻 Discover my official website [PramithaMJ.me]((https://pramithamj.me/))
 - 🔭 I’m currently working on [LifePill Project](https://github.com/Life-Pill)
 - 🌱 I’m currently learning **microservices, Kubernetes and Kafka**
 - 📝 I regularly write articles on [Medium](https://medium.com/@lpramithamj)
