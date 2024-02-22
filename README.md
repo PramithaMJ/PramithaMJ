@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Pramitha Jayasooriya</h1>
 <h3 align="center">BSc (Hons) Computer Engineering(UG) - Faculty of Engineering, University of Ruhuna, Sri Lanka</h3>
 <h4 align="center" style="font-family: Georgia, serif; font-size: 34px; letter-spacing: -0.2px; word-spacing: 0.4px; color: #F3B5FF; font-weight: 700; text-decoration: none solid rgb(68, 68, 68); font-style: normal; font-variant: normal; text-transform: none;">A Passionate Full Stack Developer from Sri Lanka 🇱🇰</h4>
-
+<!--
 ![New Cover](https://github.com/PramithaMJ/PramithaMJ/assets/123730262/3eda7447-1131-463e-b7e0-cf116c6e8382)
-
+-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramithamj&label=Profile%20views&color=0e75b6&style=flat" alt="pramithamj" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pramithamj" alt="pramithamj" /></a> </p>
