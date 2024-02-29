@@ -1,5 +1,7 @@
 <!-- <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 -->
+![github](https://github.com/PramithaMJ/PramithaMJ/assets/123730262/593d3c0e-9918-439b-b1c9-ddcd66648d7d)
+
 <h1 align="center">Hi 👋, I'm Pramitha Jayasooriya</h1>
 <h3 align="center">BSc (Hons) Computer Engineering(UG) - Faculty of Engineering, University of Ruhuna, Sri Lanka</h3>
 <h4 align="center" style="font-family: Georgia, serif; font-size: 34px; letter-spacing: -0.2px; word-spacing: 0.4px; color: #F3B5FF; font-weight: 700; text-decoration: none solid rgb(68, 68, 68); font-style: normal; font-variant: normal; text-transform: none;">A Passionate Full Stack Developer from Sri Lanka 🇱🇰</h4>
