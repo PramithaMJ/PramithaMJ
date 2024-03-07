@@ -216,13 +216,24 @@
   <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
 </div>
 
-###
 
+<!--
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@lpramithamj&theme=dark" alt="Layout with last medium posts"  />
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=`@lpramithamj`" alt="Layout with last medium posts"  />
+</div>
+-->
+###
+<h2 align="left">Blogger,Check my recent Post of Medium!</h2>
+<div align="center">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lpramithamj/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lpramithamj/0" alt="Recent Article 0"> 
+</div>
+<div align="center">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lpramithamj/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lpramithamj/0" alt="Recent Article 0"> 
+</div>
+<div align="center">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lpramithamj/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lpramithamj/0" alt="Recent Article 0"> 
 </div>
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PramithaMJ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
