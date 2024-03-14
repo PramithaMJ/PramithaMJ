@@ -10,7 +10,7 @@
 
 - 💻 Discover my official website [PramithaMJ.me](https://pramithamj.me/)
 - 🔭 I’m currently working on [LifePill Project](https://github.com/Life-Pill)
-- 🌱 I’m currently learning **microservices, Kubernetes and Kafka**
+- 🌱 I’m currently learning **DevOps, Kubernetes and Kafka**
 - 📝 I regularly write articles on [Medium](https://medium.com/@lpramithamj)
 - 💬 Ask me about **Java, SpringBoot , Microservices**
 - 🥇 Check my current standing among Kattis users in Sri Lanka [Kattis](https://open.kattis.com/countries/LKA)
