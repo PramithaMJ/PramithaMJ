@@ -8,6 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/pramithamj" target="blank"><img src="https://img.shields.io/twitter/follow/pramithamj?logo=twitter&style=for-the-badge" alt="pramithamj" /></a> </p>
 
+- Sri Lanka's Most Contribution GitHub Users Rank: [![committers.top badge](https://user-badge.committers.top/sri_lanka_public/PramithaMJ.svg)](https://user-badge.committers.top/sri_lanka_public/PramithaMJ)
 - Sri Lanka's Most Active GitHub Users Rank: [![committers.top badge](https://user-badge.committers.top/sri_lanka/PramithaMJ.svg)](https://user-badge.committers.top/sri_lanka/PramithaMJ)
 - 💻 Discover my official website [PramithaMJ.me](https://pramithamj.me/)
 - 🔭 I’m currently working on [LifePill Project](https://github.com/Life-Pill)
