@@ -198,10 +198,12 @@
 </div>
 
 <a href="https://app.daily.dev/pramithamj"><img src="https://api.daily.dev/devcards/v2/ffSlToAPEyxl5A7mATELl.png?type=default&r=gm5" width="356" alt="Pramitha Jayasooriya's Dev Card"/></a>
-
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PramithaMJ&theme=ocean_dark)
+ <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PramithaMJ&theme=ocean_dark) -->
 <h2 align="left">📊 GitHub Stats:</h2>
+
 <div align="center">
-  
+
   <img src="https://github-readme-stats.vercel.app/api?username=PramithaMJ&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=PramithaMJ&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PramithaMJ&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
