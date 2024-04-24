@@ -40,9 +40,7 @@
 </div>
 
 ###
-
 <h2 align="left">I code with</h2>
-
 ###
 
 <div align="left">
