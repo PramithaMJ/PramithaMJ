@@ -18,7 +18,7 @@
 - 📫 How to reach me **lpramithamj@gmail.com**
 
 ---
-## Dashboard
+## Monthly Performance Overview: Last 28 Days Dashboard
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=123730262" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=123730262&image_size=auto&color_scheme=dark" width="771" height="auto">
@@ -28,8 +28,7 @@
 
 ---
 
-## Recently Worked
-
+## Recent Work Summary: Last 28 Days
 
 <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=123730262&activity_type=all" target="_blank" style="display: block" align="center">
   <picture>
@@ -38,6 +37,7 @@
   </picture>
 </a>
 
+---
 
 <h3 align="left">Connect with me:</h3>
 
