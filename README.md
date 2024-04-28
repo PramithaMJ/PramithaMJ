@@ -17,6 +17,28 @@
 - 🥇 Check my current standing among Kattis users in Sri Lanka [Kattis](https://open.kattis.com/countries/LKA)
 - 📫 How to reach me **lpramithamj@gmail.com**
 
+---
+## Dashboard
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=123730262" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=123730262&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @PramithaMJ" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=123730262&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+---
+
+## Recently Worked
+
+
+<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=123730262&activity_type=all" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=123730262&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
+    <img alt="@PramithaMJ's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=123730262&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
+  </picture>
+</a>
+
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
@@ -41,7 +63,6 @@
 
 ###
 <h2 align="left">I code with</h2>
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
