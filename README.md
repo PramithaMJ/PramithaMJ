@@ -217,7 +217,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=PramithaMJ&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
+ [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pramithamj?cardType=level-alternate&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
   <img src="https://streak-stats.demolab.com?user=PramithaMJ&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PramithaMJ&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramithamj&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,cmake,css,html" alt="pramithamj" />
