@@ -26,7 +26,7 @@
     <img alt="Dashboard stats of @PramithaMJ" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=123730262&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
--->
+
 ---
 <!--
 ## Recent Work Summary: Last 28 Days
@@ -232,7 +232,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramithamj&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,cmake,css,html" alt="pramithamj" />
   
 </div>
-## Donation
+
+## 
+***Donation***
 
 ***If you like what I do, maybe consider buying me a coffee***
 
