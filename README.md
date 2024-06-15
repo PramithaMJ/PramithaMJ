@@ -57,11 +57,10 @@
 </p>
 
 ---
-<!--
 <div align="center">
    <img src="https://github-profile-trophy.vercel.app?username=PramithaMJ&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
--->
+
 <!--
 ###
 <h2 align="left">I code with</h2>
@@ -204,7 +203,7 @@
 </div>
 
 -->
-<!--
+
 <h2 align="left">Blogger,Check my recent Post of Medium!</h2>
 <div align="center">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lpramithamj/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lpramithamj/0" alt="Recent Article 0"> 
@@ -215,15 +214,14 @@
 <div align="center">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lpramithamj/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lpramithamj/2" alt="Recent Article 2"> 
 </div>
-  -->
+
 <!--
 <a href="https://app.daily.dev/pramithamj"><img src="https://api.daily.dev/devcards/v2/ffSlToAPEyxl5A7mATELl.png?type=default&r=gm5" width="356" alt="Pramitha Jayasooriya's Dev Card"/></a>
 
   -->
-  <!--
+
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PramithaMJ&theme=ocean_dark)
 <h2 align="left">📊 GitHub Stats:</h2>
--->
 
 
 <div align="center">
