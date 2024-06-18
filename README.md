@@ -28,7 +28,7 @@
 </a>
 
 ---
-<!--
+
 ## Recent Work Summary: Last 28 Days
 
 <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=123730262&activity_type=all" target="_blank" style="display: block" align="center">
@@ -37,7 +37,7 @@
     <img alt="@PramithaMJ's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=123730262&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
   </picture>
 </a>
-
+<!--
 ---
 <h3 align="left">Connect with me:</h3>
 
@@ -218,7 +218,7 @@
 <!--
 <a href="https://app.daily.dev/pramithamj"><img src="https://api.daily.dev/devcards/v2/ffSlToAPEyxl5A7mATELl.png?type=default&r=gm5" width="356" alt="Pramitha Jayasooriya's Dev Card"/></a>
 
-  -->
+-->
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PramithaMJ&theme=ocean_dark)
 <h2 align="left">📊 GitHub Stats:</h2>
