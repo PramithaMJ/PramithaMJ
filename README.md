@@ -37,7 +37,7 @@
     <img alt="@PramithaMJ's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=123730262&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
   </picture>
 </a>
-<!--
+
 ---
 <h3 align="left">Connect with me:</h3>
 
@@ -61,11 +61,10 @@
    <img src="https://github-profile-trophy.vercel.app?username=PramithaMJ&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
-<!--
+
 ###
 <h2 align="left">I code with</h2>
--->
-<!--
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
