@@ -36,6 +36,7 @@
 </a>
 
 ---
+-->
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
@@ -59,6 +60,8 @@
 </div>
 
 ---
+
+<!--
 ###
 <h2 align="left">I code with</h2>
 
@@ -214,7 +217,8 @@
 <!--
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PramithaMJ&theme=ocean_dark)
 <h2 align="left">📊 GitHub Stats:</h2>
-
+-->
+---
 <div align="center">
 
  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pramithamj?cardType=level-alternate&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
