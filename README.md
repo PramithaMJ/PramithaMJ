@@ -34,8 +34,6 @@
     <img alt="@PramithaMJ's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=123730262&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
   </picture>
 </a>
-
----
 -->
 <h3 align="left">Connect with me:</h3>
 
@@ -61,7 +59,6 @@
 </div>
 
 ---
-
 <!--
 ###
 <h2 align="left">I code with</h2>
