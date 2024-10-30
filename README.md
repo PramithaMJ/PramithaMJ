@@ -50,7 +50,7 @@
 
 ---
 ### Holopin Badges
-[![@pramithamj's Holopin board](https://holopin.io/api/user/board?user=pramithamj)](https://holopin.io/@pramithamj)
+[![An image of @pramithamj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pramithamj)](https://holopin.io/@pramithamj)
 ---
 ###
 <h2 align="left">I code with</h2>
