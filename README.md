@@ -2,6 +2,7 @@
 <h3 align="center">BSc. (Hons) Computer Engineering(UG) - Faculty of Engineering, University of Ruhuna, Sri Lanka</h3>
 <h4 align="center" style="font-family: Georgia, serif; font-size: 34px; letter-spacing: -0.2px; word-spacing: 0.4px; color: #F3B5FF; font-weight: 700; text-decoration: none solid rgb(68, 68, 68); font-style: normal; font-variant: normal; text-transform: none;">A Passionate Software, DevOps and SRE Engineer from Sri Lanka 🇱🇰</h4>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramithamj&label=Profile%20views&color=0e75b6&style=flat" alt="pramithamj" /> </p>
 <p align="left"> <a href="https://twitter.com/pramithamj" target="blank"><img src="https://img.shields.io/twitter/follow/pramithamj?logo=twitter&style=for-the-badge" alt="pramithamj" /></a> </p>
 
@@ -48,7 +49,9 @@
 </div>
 
 ---
-
+### Holopin Badges
+[![@pramithamj's Holopin board](https://holopin.io/api/user/board?user=pramithamj)](https://holopin.io/@pramithamj)
+---
 ###
 <h2 align="left">I code with</h2>
 
@@ -219,3 +222,4 @@ Donation
 
 <a href="https://buymeacoffee.com/lpramithamm"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important;"></a>
 ---
+
