@@ -42,19 +42,21 @@
 <a href="https://medium.com/@lpramithamj" target="blank"><img align="center" src="https://github.com/PramithaMJ/PramithaMJ/assets/123730262/219228d4-c2db-4132-a9bb-472c4946e82e" alt="https://medium.com/@lpramithamj" height="40" width="40" /></a>
 <a href="https://pramithamj.me" target="blank"><img align="center" src="https://github.com/user-attachments/assets/f729dde5-f14e-448c-b63c-d9ca232fce29" alt="https://medium.com/@lpramithamj" height="40" width="40" /></a>
 </p>
-
+<!--
 ---
 <div align="center">
    <img src="https://github-profile-trophy.vercel.app?username=PramithaMJ&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
+-->
 
----
 ### Holopin Badges
 [![An image of @pramithamj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pramithamj)](https://holopin.io/@pramithamj)
----
+--
+<!--
 ###
 <h2 align="left">I code with</h2>
-
+-->
+<!--
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
@@ -190,7 +192,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
 </div>
-
+-->
 
 <h2 align="left">Blogger, Check my recent Post of Medium!</h2>
 <div align="center">
@@ -207,6 +209,7 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PramithaMJ&theme=ocean_dark)
 <h2 align="left">📊 GitHub Stats:</h2>
 -->
+<!--
 ---
 <div align="center">
 
@@ -216,6 +219,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramithamj&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,cmake,css,html" alt="pramithamj" />
 
 </div>
+-->
 Donation
 
 ***If you like what I do, maybe consider buying me a coffee***
