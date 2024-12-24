@@ -1,3 +1,14 @@
+<div align="center">
+  
+  <!-- Typing SVG -->
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=F7B12B&center=true&vCenter=true&width=500&lines=Happy+New+Year+2025!+🎊;From+PramithaMJ+🌟)](https://git.io/typing-svg)
+
+</div>
+<!-- Add a festive message -->
+<h3 align="center">
+  🌟 In the New Year, let’s refactor our lives for better performance and fewer bugs. Happy 2025! 🎉
+</h3>
+
 <h1 align="center">Hi 👋, I'm Pramitha Jayasooriya</h1>
 <h3 align="center">BSc. (Hons) Computer Engineering(UG) - Faculty of Engineering, University of Ruhuna, Sri Lanka</h3>
 <h4 align="center" style="font-family: Georgia, serif; font-size: 34px; letter-spacing: -0.2px; word-spacing: 0.4px; color: #F3B5FF; font-weight: 700; text-decoration: none solid rgb(68, 68, 68); font-style: normal; font-variant: normal; text-transform: none;">A Passionate Software, DevOps and SRE Engineer from Sri Lanka 🇱🇰</h4>
