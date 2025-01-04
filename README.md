@@ -17,9 +17,10 @@
 ![GitHub followers](https://img.shields.io/github/followers/PramithaMJ?label=Follow&style=social)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramithamj&label=Profile%20views&color=0e75b6&style=flat" alt="pramithamj" /> </p>
 <p align="left"> <a href="https://twitter.com/pramithamj" target="blank"><img src="https://img.shields.io/twitter/follow/pramithamj?logo=twitter&style=for-the-badge" alt="pramithamj" /></a> </p>
-
+<!--
 - Sri Lanka's Most Contribution GitHub Users Rank: [![committers.top badge](https://user-badge.committers.top/sri_lanka_public/PramithaMJ.svg)](https://user-badge.committers.top/sri_lanka_public/PramithaMJ)
 - Sri Lanka's Most Active GitHub Users Rank: [![committers.top badge](https://user-badge.committers.top/sri_lanka/PramithaMJ.svg)](https://user-badge.committers.top/sri_lanka/PramithaMJ)
+-->
 - 💻 Discover my official website [PramithaMJ.me](https://pramithamj.me/)
 - 🔭 I’m currently working on [LifePill Project](https://github.com/Life-Pill)
 - 🌱 As I continue my learning journey in the tech industry, I consistently adapt to the latest advancements, ensuring I stay up-to-date to make meaningful contributions.
