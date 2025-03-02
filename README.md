@@ -1,12 +1,15 @@
+<!-- 
 <div align="center">
-  
+  -->
   <!-- Typing SVG -->
+  <!-- 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=F7B12B&center=true&vCenter=true&width=500&lines=Happy+New+Year+2025!+🎊;From+PramithaMJ+🌟)](https://git.io/typing-svg)
 
 </div>
+-->
 <!-- Add a festive message -->
 <h3 align="center">
-  🌟 In the New Year, let’s refactor our lives for better performance and fewer bugs. Happy 2025! 🎉
+  Let’s refactor our lives for better performance and fewer bugs. Happy Cording
 </h3>
 
 <h1 align="center">Hi 👋, I'm Pramitha Jayasooriya</h1>
