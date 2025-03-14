@@ -61,7 +61,7 @@
 <a href="https://open.kattis.com/users/pramitha-jayasooriya" target="blank"><img align="center" src="https://github.com/PramithaMJ/PramithaMJ/assets/123730262/b62d6b34-2880-4a46-904f-5b21611f2d36" alt="pramithamj" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC5z_yT-vIaoo4tjf1Tw_WJw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc5z_yt-viaoo4tjf1tw_wjw" height="30" width="40" /></a>
 <a href="https://medium.com/@lpramithamj" target="blank"><img align="center" src="https://github.com/PramithaMJ/PramithaMJ/assets/123730262/219228d4-c2db-4132-a9bb-472c4946e82e" alt="https://medium.com/@lpramithamj" height="40" width="40" /></a>
-<a href="https://pramithamj.me" target="blank"><img align="center" src="https://github.com/user-attachments/assets/f729dde5-f14e-448c-b63c-d9ca232fce29" alt="https://medium.com/@lpramithamj" height="40" width="40" /></a>
+<a href="https://pramithamj.live" target="blank"><img align="center" src="https://github.com/user-attachments/assets/f729dde5-f14e-448c-b63c-d9ca232fce29" alt="https://medium.com/@lpramithamj" height="40" width="40" /></a>
 </p>
 <!--
 ---
