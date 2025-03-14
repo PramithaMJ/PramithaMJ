@@ -214,6 +214,7 @@
   <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
 </div>
 -->
+<!--
 
 <h2 align="left">Blogger, Check my recent Post of Medium!</h2>
 <div align="center">
@@ -225,7 +226,7 @@
 <div align="center">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lpramithamj/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lpramithamj/2" alt="Recent Article 2"> 
 </div>
-
+-->
 <!--
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PramithaMJ&theme=ocean_dark)
 <h2 align="left">📊 GitHub Stats:</h2>
