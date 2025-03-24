@@ -69,7 +69,7 @@
    <img src="https://github-profile-trophy.vercel.app?username=PramithaMJ&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 -->
-
+<!--
 ### Holopin Badges
 [![An image of @pramithamj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pramithamj)](https://holopin.io/@pramithamj)
 --
