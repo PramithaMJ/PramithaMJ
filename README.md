@@ -20,12 +20,12 @@
 ![GitHub followers](https://img.shields.io/github/followers/PramithaMJ?label=Follow&style=social)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramithamj&label=Profile%20views&color=0e75b6&style=flat" alt="pramithamj" /> </p>
 <p align="left"> <a href="https://twitter.com/pramithamj" target="blank"><img src="https://img.shields.io/twitter/follow/pramithamj?logo=twitter&style=for-the-badge" alt="pramithamj" /></a> </p>
+<p align="left"> <a href= "https://user-badge.committers.top/sri_lanka/PramithaMJ.svg" target="blank"><img src="https://user-badge.committers.top/sri_lanka/PramithaMJ.svg"
 <!--
 - Sri Lanka's Most Contribution GitHub Users Rank: [![committers.top badge](https://user-badge.committers.top/sri_lanka_public/PramithaMJ.svg)](https://user-badge.committers.top/sri_lanka_public/PramithaMJ)
-- Sri Lanka's Most Active GitHub Users Rank: [![committers.top badge](https://user-badge.committers.top/sri_lanka/PramithaMJ.svg)](https://user-badge.committers.top/sri_lanka/PramithaMJ)
--->
+- Sri Lanka's Most Active GitHub Users Rank: [![committers.top badge](https://user-badge.committers.top/sri_lanka/PramithaMJ)](https://user-badge.committers.top/sri_lanka/PramithaMJ)
 <!--
-- 💻 Discover my official website [PramithaMJ.me](https://pramithamj.me/)
+- 💻 Discover my official website [PramithaMJ.live](https://pramithamj.live/)
 - 🔭 I’m currently working on [LifePill Project](https://github.com/Life-Pill)
 - 🌱 As I continue my learning journey in the tech industry, I consistently adapt to the latest advancements, ensuring I stay up-to-date to make meaningful contributions.
 - 📝 I regularly write articles on [Medium](https://medium.com/@lpramithamj)
@@ -69,7 +69,7 @@
    <img src="https://github-profile-trophy.vercel.app?username=PramithaMJ&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 -->
-<!--
+
 ### Holopin Badges
 [![An image of @pramithamj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pramithamj)](https://holopin.io/@pramithamj)
 --
@@ -214,23 +214,18 @@
   <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
 </div>
 -->
-<!--
+
 
 <h2 align="left">Blogger, Check my recent Post of Medium!</h2>
 <div align="center">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lpramithamj/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lpramithamj/0" alt="Recent Article 0"> 
 </div>
-<div align="center">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lpramithamj/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lpramithamj/1" alt="Recent Article 1"> 
-</div>
-<div align="center">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lpramithamj/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lpramithamj/2" alt="Recent Article 2"> 
-</div>
--->
-<!--
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PramithaMJ&theme=ocean_dark)
+
+
 <h2 align="left">📊 GitHub Stats:</h2>
--->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PramithaMJ&theme=ocean_dark)
+
 <!--
 ---
 <div align="center">
