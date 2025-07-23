@@ -9,7 +9,7 @@
 -->
 <!-- Add a festive message -->
 <h3 align="center">
-  Let’s refactor our lives for better performance and fewer bugs. Happy Cording
+  Let’s refactor our lives for better performance and fewer bugs. Happy Coding
 </h3>
 
 <h1 align="center">Hi 👋, I'm Pramitha Jayasooriya</h1>
