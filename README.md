@@ -219,6 +219,9 @@
 <h2 align="left">Blogger, Check my recent Post of Medium!</h2>
 <div align="center">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lpramithamj/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lpramithamj/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lpramithamj/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lpramithamj/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lpramithamj/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lpramithamj/2" alt="Recent Article 2">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lpramithamj/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lpramithamj/5" alt="Recent Article 5"> 
 </div>
 
 
