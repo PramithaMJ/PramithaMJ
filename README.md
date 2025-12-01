@@ -16,6 +16,11 @@
 <h3 align="center">BSc. (Hons) Computer Engineering(UG) - Faculty of Engineering, University of Ruhuna, Sri Lanka</h3>
 <h4 align="center" style="font-family: Georgia, serif; font-size: 34px; letter-spacing: -0.2px; word-spacing: 0.4px; color: #F3B5FF; font-weight: 700; text-decoration: none solid rgb(68, 68, 68); font-style: normal; font-variant: normal; text-transform: none;">A Passionate Software, DevOps and SRE Engineer from Sri Lanka 🇱🇰</h4>
 
+---
+
+<h4 align="center">I craft system architectures and guide them through ever-expanding scales, and though no code is destined to be flawless, I delve into each layer with precision until every trace of weakness is revealed and refined </h4>
+
+---
 
 ![GitHub followers](https://img.shields.io/github/followers/PramithaMJ?label=Follow&style=social)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramithamj&label=Profile%20views&color=0e75b6&style=flat" alt="pramithamj" /> </p>
