@@ -33,6 +33,7 @@
     <img src="https://img.shields.io/badge/Open%20CV-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </p>
+
 ---
 
 
