@@ -21,7 +21,7 @@
 <h4 align="center">I craft system architectures and guide them through ever-expanding scales, and though no code is destined to be flawless, I delve into each layer with precision until every trace of weakness is revealed and refined </h4>
 
 ---
-
+<h1 align="center"> https://pramithamj.pages.dev/ </h1>
 <h2 align="center">📄 Curriculum Vitae</h2>
 
 <p align="center">
