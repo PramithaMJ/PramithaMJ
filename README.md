@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1mgiS0_pn4nWssZ14nK_FAZvTeFwz1Ro9/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1SdEb-Q-aARbol0-ivbcFjB9Czegad1Do/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Open%20CV-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </p>
