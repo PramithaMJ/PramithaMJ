@@ -68,21 +68,58 @@
 -->
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
+<p align="left" style="display:flex; gap:10px; align-items:center; flex-wrap:wrap;">
 
-<a href="https://twitter.com/pramithamj" target="blank"><img align="center" src="https://github.com/PramithaMJ/PramithaMJ/assets/123730262/c7cefddb-2f43-482b-adf3-948405a29e66" alt="pramithamj" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/pramitha-jayasooriya-8b710b1b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramitha jayasooriya" height="30" width="40" /></a>
-<a href="https://www.facebook.com/Pramitha.ayasooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pramitha mihiranga jaysooriya" height="30" width="40" /></a>
-<a href="https://instagram.com/pramitha_mihiranga_jayasooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pramitha_mihiranga_jayasooriya" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/Pramitha3990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ds" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21953303/pramitha-jayasooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vxcx" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/pramithajayasooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vxcvxc" height="30" width="40" /></a>
-<a href="https://leetcode.com/PramithaMJ/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pramithamj" height="30" width="40" /></a>
-<a href="https://open.kattis.com/users/pramitha-jayasooriya" target="blank"><img align="center" src="https://github.com/PramithaMJ/PramithaMJ/assets/123730262/b62d6b34-2880-4a46-904f-5b21611f2d36" alt="pramithamj" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@PramithaJayasooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc5z_yt-viaoo4tjf1tw_wjw" height="30" width="40" /></a>
-<a href="https://medium.com/@lpramithamj" target="blank"><img align="center" src="https://github.com/PramithaMJ/PramithaMJ/assets/123730262/219228d4-c2db-4132-a9bb-472c4946e82e" alt="https://medium.com/@lpramithamj" height="40" width="40" /></a>
-<a href="https://pramithamj.live" target="blank"><img align="center" src="https://github.com/user-attachments/assets/f729dde5-f14e-448c-b63c-d9ca232fce29" alt="https://medium.com/@lpramithamj" height="40" width="40" /></a>
+<a href="https://twitter.com/pramithamj" target="blank">
+  <img src="https://github.com/PramithaMJ/PramithaMJ/assets/123730262/c7cefddb-2f43-482b-adf3-948405a29e66" height="40" width="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/pramitha-jayasooriya-8b710b1b0/" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+<a href="https://www.facebook.com/Pramitha.ayasooriya" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/pramitha_mihiranga_jayasooriya" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/Pramitha3990" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
+</a>
+
+<a href="https://stackoverflow.com/users/21953303/pramitha-jayasooriya" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
+</a>
+
+<a href="https://www.kaggle.com/pramithajayasooriya" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
+</a>
+
+<a href="https://leetcode.com/PramithaMJ/" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
+
+<a href="https://open.kattis.com/users/pramitha-jayasooriya" target="blank">
+  <img src="https://github.com/PramithaMJ/PramithaMJ/assets/123730262/b62d6b34-2880-4a46-904f-5b21611f2d36" height="30" width="40" />
+</a>
+
+<a href="https://www.youtube.com/@PramithaJayasooriya" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
+</a>
+
+<a href="https://medium.com/@lpramithamj" target="blank">
+  <img src="https://github.com/PramithaMJ/PramithaMJ/assets/123730262/219228d4-c2db-4132-a9bb-472c4946e82e" height="40" width="40" />
+</a>
+
+<a href="https://pramithamj.pages.dev" target="blank">
+  <img src="https://github.com/user-attachments/assets/f729dde5-f14e-448c-b63c-d9ca232fce29" height="40" width="40" />
+</a>
+
 </p>
+
 <!--
 ---
 <div align="center">
