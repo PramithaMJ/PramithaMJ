@@ -21,7 +21,7 @@
 <h4 align="center">I craft system architectures and guide them through ever-expanding scales, and though no code is destined to be flawless, I delve into each layer with precision until every trace of weakness is revealed and refined </h4>
 
 ---
-<h1 align="center"> https://pramithamj.pages.dev/ </h1>
+<h1 align="center"> https://pramitha.lk/ </h1>
 <h2 align="center">📄 Curriculum Vitae</h2>
 
 <p align="center">
@@ -114,7 +114,7 @@
   <img src="https://github.com/PramithaMJ/PramithaMJ/assets/123730262/219228d4-c2db-4132-a9bb-472c4946e82e" height="40" width="40" />
 </a>
 
-<a href="https://pramithamj.pages.dev" target="blank">
+<a href="https://pramitha.lk/" target="blank">
   <img src="https://github.com/user-attachments/assets/f729dde5-f14e-448c-b63c-d9ca232fce29" height="40" width="40" />
 </a>
 
